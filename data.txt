@@ -1,0 +1,2 @@
+I am learning GIT
+GIT is shared repository 
